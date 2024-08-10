@@ -5,3 +5,5 @@ availability_zone = ["ap-south-1b", "ap-south-1c"]
 instance_type     = "t3.medium"
 key_name          = "TF_Key-mumbai"
 ami_id            = "ami-0ad21ae1d0696ad58"
+AWS_ACCESS_KEY_ID = "AKIA33JINDVNLVFH3VGM"
+AWS_SECRET_ACCESS_KEY = "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"
