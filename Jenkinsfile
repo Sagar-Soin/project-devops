@@ -15,7 +15,7 @@ pipeline {
 
                 // Clone the Git repository
                 git branch: 'main',
-                    url: ''
+                    url: 'https://github.com/Sagar-Soin/project-devops.git'
 
                 sh "ls -lart"
             }
